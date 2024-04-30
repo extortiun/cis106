@@ -15,7 +15,7 @@ Assignment: Lab 6
 ## Question 3
 ![q3](q3.png)
 
-## Question 4
+## Question 
 ![q4.1](q4.1.png)
 ![q4.2](q4.2.png)
 
