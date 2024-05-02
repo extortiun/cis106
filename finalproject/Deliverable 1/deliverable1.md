@@ -13,7 +13,7 @@ Instructor: R. Alberto
 A web server is a software and hardware that uses HTTP(Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web. The main job of a web server is to display website content through storing, processing and delivering webpages to users. 
 
 ### What is Apache?
-![apache-logo](apache-logo.png)
+![apache-logo](apache-logo.png)<br>
 A directive in a configuration option. /etc/httpd/conf/http.conf
 
 ### What are some example web server applications?
@@ -40,7 +40,7 @@ Mit License means permissive free, you are allowed to do anything you want with 
 Virtualization is a technique used for creating virtual resources (rather than actual) such as, server storage device, network and operating system. Virtualization is disassociating the tight bond between software and hardware. 
 
 ### What is virtualbox?
-![logo virtualbox](Virtualbox_logo.png)<br>
+![logo virtualbox](virtualbox_logo.png)<br>
 A VirtualBox is a tool for virtualizing x86 and AMD64/Intel64 computing architecture, enabling users to deploy desktops, servers, and operating systems as virtual machines.
 
 ### What is a virtual machine?
