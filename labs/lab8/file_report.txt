@@ -1,0 +1,21 @@
+All files in my home directory
+all.log, allmyfiles.txt, .ansi_codes.sh, .bash_aliases, .bash_aliasesclear,
+.bash_aliasesclear.save, .bash_history, .bash_logout, .bashrc, book-list,
+.cache, challenge-Lab6, cis106, .config, Desktop, Documents, .dotnet, Downloads,
+error.log, files-sp-24, .fontconfig, .gitconfig, .gnupg, lab4files, Lab-5,
+lab5-audio, lab5ChallengeQuestion, lab5-docs, lab5-imgs, lab5-video, lab6,
+lab6-q5, .lesshst, .local, local, Music, Pictures, pizza-mania, .pki,
+practicels, practicels.tar.xz, practicemkdir, .profile, scripts, snap, .ssh,
+success.log, .sudo_as_admin_successful, .textFiles, .textFiles.sh, tfi.sh,
+.vboxclient-clipboard-tty2-control.pid, .vboxclient-clipboard-tty2-service.pid,
+.vboxclient-draganddrop-tty2-control.pid,
+.vboxclient-draganddrop-tty2-service.pid,
+.vboxclient-hostversion-tty2-control.pid, .vboxclient-seamless-tty2-control.pid,
+.vboxclient-seamless-tty2-service.pid,
+.vboxclient-vmsvga-session-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-service.pid, Videos, .vscode, website,
+wildcardpractice
+Total number of files in my home directory
+28
+Total number of directories in my home directory
+36
