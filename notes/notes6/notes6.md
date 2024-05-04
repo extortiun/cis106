@@ -60,6 +60,6 @@ A shorthand for a more complicated command. Alias do not persist unless you save
 
 <hr>
 
-## >
+## >>
 ### Definition: 
 A operator returns a number or bigint whose binary represent a shifted by the specified number of bits to the right. 
