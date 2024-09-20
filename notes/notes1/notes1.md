@@ -19,7 +19,7 @@ A markup language is a text-encoding system which specifies the structure and fo
 
 ## What is Linux?
 ### Definition:
-Linux is a Unix-like Operating System popular in academic and business environments. Linux consists of a kernel, libraries and utilities that make up the entire operating system. Linux is available in many distributions 
+Linux is a Unix-like Operating System popular in academic and business environments. Linux consists of a kernel, libraries and utilities that make up the entire operating system. Linux is available in many distributions. 
 ### Several Characteristics of Linux:
 - Open source software
 - Linux is available free of charge.
