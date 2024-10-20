@@ -1,4 +1,4 @@
-# Note 1: Bash Shell
+# Note 3: Bash Shell
 
 Commands cover in lecture:
 
