@@ -35,7 +35,8 @@ Removes files. RM by default does not removes directories. To remove a directory
 ### Definition:
 used to remove directories. 
 ### Examples: 
-* `rmdir Downloads/games`
+* `rmdir Downlo
+* ads/games`
 
 <hr>
 
