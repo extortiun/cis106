@@ -15,7 +15,7 @@ Awk is a scripting language used for processing and displaying text. Awk can wor
 * Print the last field of the /etc/passwd file
   * `awk -F: '{print $NF}' /etc/passwd`
 * Print the first and last field of the /etc/passwd
-  * `awk -F: '{print $1," = ",$NF}' /etc/passwd
+  * `awk -F: '{print $1," = ",$NF}' /etc/passwd`
 
 <hr>
 
